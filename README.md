@@ -168,6 +168,7 @@ The project follows a structured architecture where different application respon
 - Clean Data Flow
 
 ## 📂 Project Structure
+```
 Company-Management-System/
 │
 ├── 📁 src/
@@ -185,6 +186,7 @@ Company-Management-System/
 ├── 📄 README.md
 ├── 📄 .gitignore
 └── 📄 package.json
+```
 
 ## 🚀 Installation
 ### 1. Clone the Repository
@@ -234,6 +236,7 @@ After successfully starting the application:
 - Perform the available business operations.
 
 ## 🔄 Application Workflow
+```
 User
  │
  ▼
@@ -254,6 +257,7 @@ Dashboard
  │
  ▼
 Database
+```
 
 ## 🔒 Security
 
