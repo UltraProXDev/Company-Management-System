@@ -128,7 +128,7 @@ The project is structured so that additional modules can be introduced without u
 ## 🏗️ Application Architecture
 
 The project follows a structured architecture where different application responsibilities are separated into appropriate layers.
-`
+
                          ┌──────────────────────┐
                          │        USER              │
                          └──────────┬───────────┘
