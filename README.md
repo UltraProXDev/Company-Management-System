@@ -265,27 +265,27 @@ Security should be treated as a core part of the application.
 
 The project is designed to support security practices such as:
 
-🔐 Authentication
-🛡️ Authorization
-🔑 Secure password handling
-✅ Input validation
-🚫 Protected resources
-🔒 Environment-based secrets
-🧹 Secure error handling
-🗝️ Protection of sensitive configuration
+- 🔐 Authentication
+- 🛡️ Authorization
+- 🔑 Secure password handling
+- ✅ Input validation
+- 🚫 Protected resources
+- 🔒 Environment-based secrets
+- 🧹 Secure error handling
+- 🗝️ Protection of sensitive configuration
 
 
 
 ## 📊 Core System Modules
 Module	Purpose
-🏢 Company Management	Manage company-related information
-👥 User Management	Manage application users
-👤 Employee Management	Organize employee information
-🔐 Authentication	Secure application access
-🛡️ Authorization	Control access to protected resources
-🗃️ Data Management	Maintain structured application data
-📊 Dashboard	Provide centralized system information
-⚙️ Configuration	Manage application settings
+- 🏢 Company Management	Manage company-related information
+- 👥 User Management	Manage application users
+- 👤 Employee Management	Organize employee information
+- 🔐 Authentication	Secure application access
+- 🛡️ Authorization	Control access to protected resources
+- 🗃️ Data Management	Maintain structured application data
+- 📊 Dashboard	Provide centralized system information
+- ⚙️ Configuration	Manage application settings
 
 ## 💡 Engineering Practices
 
@@ -348,6 +348,7 @@ Example:
 git commit -m "feat: add employee management"
 
 ## 🌱 Development Roadmap
+```
 Phase 1
 │
 ├── Project Foundation
@@ -381,6 +382,7 @@ Phase 5
 ├── Docker
 ├── CI/CD
 └── Production Deployment
+```
 
 ## 🌟 Why This Project Matters
 
